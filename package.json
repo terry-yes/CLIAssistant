@@ -1,0 +1,11 @@
+{
+	"name": "cliAssistant",
+	"version": "0.0.1",
+	"description": "nodejs xcode program",
+	"main": "index.js",
+	"autor": "itaehyeok",
+	"license": "ISC",
+	"bin": {
+		"cli": "./index.js"
+	}
+}
